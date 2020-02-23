@@ -24,6 +24,7 @@
 *********
 
 *********
+<div id'inicio'/div>
 
 ## Sumário
 
@@ -62,9 +63,9 @@
 
 | Equipe | Papel | E-mail|
 | :----- | :---: | :---- |
+Jaine de Senna Santos |  | jainesantossenna191@gmail.com
 José Geraldo de Medeiros Júnior |  | geraldo_sjs@hotmail.com
 José Rubens de Oliveira Júnior |  | jroliveirati@gmail.com
-Jaine de Senna Santos |  | jainesantossenna191@gmail.com
 Maria das Graças Dias Amorim | Gerente | ariadasgracasdiasamorim@gmail.com
 Paulo Vitor de Medeiros Brito |  | soueupaulovitormedeiros@gmail.com
 Pedro Jonas da Silva Medeiros |  | pedrojonassm@gmail.com
@@ -79,9 +80,9 @@ Pedro Jonas da Silva Medeiros |  | pedrojonassm@gmail.com
 
 | Equipe | Competências |
 | :----- | :----------- |
+Jaine de Senna Santos | Liderança,
 José Geraldo de Medeiros Júnior | Desenvolvedor Python, Matemática,
 José Rubens de Oliveira Júnior | JavaScript,
-Jaine de Senna Santos | Liderança,
 Maria das Graças Dias Amorim | Liderança,
 Paulo Vitor de Medeiros Brito | WebDesign,
 Pedro Jonas da Silva Medeiros | Desenvolvedor Java, Python, C, Eclipse, Visual Studio, Matemática, etc.
