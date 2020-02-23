@@ -24,7 +24,7 @@
 *********
 
 *********
-<div id'inicio'/div>
+<div id='sumario'/>
 
 ## Sumário
 
@@ -53,6 +53,7 @@
 16/11/2018 | 1.2 | Pequenos ajustes no texto | Taciano Morais Silva
 27/12/2018 | 1.3 | Melhorias no texto de descrição do documento. | Taciano Morais Silva
 
+[Topo](#sumario)
 *********
 
 *********
@@ -70,13 +71,14 @@ Maria das Graças Dias Amorim | Gerente | ariadasgracasdiasamorim@gmail.com
 Paulo Vitor de Medeiros Brito |  | soueupaulovitormedeiros@gmail.com
 Pedro Jonas da Silva Medeiros |  | pedrojonassm@gmail.com
 
+[Topo](#sumario)
 *********
 
 *********
 
 <div id='competencias'/>
 
-### Matriz de Competências
+### **Matriz de Competências**
 
 | Equipe | Competências |
 | :----- | :----------- |
@@ -87,6 +89,7 @@ Maria das Graças Dias Amorim | Liderança,
 Paulo Vitor de Medeiros Brito | WebDesign,
 Pedro Jonas da Silva Medeiros | Desenvolvedor Java, Python, C, Eclipse, Visual Studio, Matemática, etc.
 
+[Topo](#sumario)
 *********
 
 *********
@@ -98,135 +101,78 @@ Pedro Jonas da Silva Medeiros | Desenvolvedor Java, Python, C, Eclipse, Visual S
 Encontre o seu próximo filme ou crie sua lista de observação com este aplicativo. Inclui críticas, classificações, atores e tudo o que você precisa saber sobre o filme. Esta aplicação ajudará os usuários a encontrar o próximo filme para assistir, mostrando estatísticas úteis. Os usuários podem criar uma conta, criar sua própria lista de observação, pode revisar filmes.  
 O recurso necessário para o projeto é a API do filme, exemplos incluem Imdb, MovieDB etc
 
+[Topo](#sumario)
 *********
 
 *********
 
 <div id='rf'/>
 
-### 	Requisitos Funcionais
+### **Requisitos Funcionais**
 
-	RF01 - Cadastro e gerenciamento de alunos
+RF01 - Requisito funcional 01
 
-	RF02 - Cadastro e gerenciamento de turmas
+RF02 - Requisito funcional 02
 
-	……...
+RFxx - Requisito funcional xx
 
+[Topo](#sumario)
 *********
 
 *********
 
 <div id='rnf'/>
 
-### 	Requisitos não-Funcionais
+### **Requisitos não-Funcionais**
 
-	RNF01 - Deve ser acessível via navegador
+RNF01 - Requisito não-funcional 01
 
-	RNF02 - Deve rodar em Windows e Linux
+RNF02 - Requisito não-funcional 02
 
+RNFxx - Requisito não-funcional xx
+
+[Topo](#sumario)
 *********
 
 *********
 
 <div id='usuarios'/>
 
-### 	Perfis dos Usuários
+### **Perfis dos Usuários**
 
-	O sistema poderá ser utilizado por diversos usuários. Temos os seguintes perfis:
+O sistema poderá ser utilizado por diversos usuários. Temos os seguintes perfis:
 
-	Perfil Aluno
+* Perfil 01
 
-		Este usuário utiliza o sistema para verificar suas notas, acessar o plano de aulas e o material das aulas, referências, tarefas, etc.
+Este usuário utiliza o sistema para acessar as referências, tarefas, etc. 
 
-	Perfil Professor
+* Perfil 02
 
-		Este usuário utiliza ……..
+Este usuário utiliza ……..
 
+* Perfil 03
+
+Este usuário utiliza ……..
+
+[Topo](#sumario)
 *********
 
 *********
 
 <div id='riscos'/>
 
-### Riscos
+### **Riscos**
 
 Preencher na tabela os riscos identificados para o início do projeto. Essa tabela deve ser atualizada ao final de cada iteração na reunião de acompanhamento.
 
+| Data | Risco | Prioridade | Responsável | Status | Providência/Solução |
+| :--: | :---- | :--------: | :---------: | :----: | :------------------ |
+10/03/2018 | Não aprendizado das ferramentas utilizadas pelos componentes do grupo a tempo. | Alta | Todos | Vigente | Reforçar estudos sobre as ferramentas e aulas com a integrante que conhece a ferramenta
+10/03/2018 | Ausência por qualquer motivo do cliente | Média | Gerente | Vigente | Planejar o cronograma tendo em base a agenda do cliente
+10/03/2018 | Divisão de tarefas mal sucedida | Baixa | Gerente | Vigente | Acompanhar de perto o desenvolvimento de cada membro da equipe
+10/03/2018 | Implementação de protótipo com as tecnologias | Alto | Todos | Resolvido | Encontrar tutorial com a maioria da tecnologia e implementar um caso base do sistema.
 
-
-<table>
-  <tr>
-   <td>Data
-   </td>
-   <td>Risco
-   </td>
-   <td>Prioridade
-   </td>
-   <td>Responsável
-   </td>
-   <td>Status
-   </td>
-   <td>Providência/Solução
-   </td>
-  </tr>
-  <tr>
-   <td>10/03/2018
-   </td>
-   <td>Não aprendizado das ferramentas utilizadas pelos componentes do grupo a tempo. 
-   </td>
-   <td>Alta
-   </td>
-   <td>Todos
-   </td>
-   <td>Vigente
-   </td>
-   <td>Reforçar estudos sobre as ferramentas e aulas com a integrante que conhece a ferramenta
-   </td>
-  </tr>
-  <tr>
-   <td>10/03/2018
-   </td>
-   <td>Ausência por qualquer motivo do cliente
-   </td>
-   <td>Média
-   </td>
-   <td>Gerente
-   </td>
-   <td>Vigente
-   </td>
-   <td>Planejar o cronograma tendo em base a agenda do cliente
-   </td>
-  </tr>
-  <tr>
-   <td>10/03/2018
-   </td>
-   <td>Divisão de tarefas mal sucedida
-   </td>
-   <td>Baixa
-   </td>
-   <td>Gerente
-   </td>
-   <td>Vigente
-   </td>
-   <td>Acompanhar de perto o desenvolvimento de cada membro da equipe
-   </td>
-  </tr>
-  <tr>
-   <td>10/03/2018
-   </td>
-   <td>Implementação de protótipo com as tecnologias
-   </td>
-   <td>Alto
-   </td>
-   <td>Todos
-   </td>
-   <td>Resolvido
-   </td>
-   <td>Encontrar tutorial com a maioria da tecnologia e implementar um caso base do sistema.
-   </td>
-  </tr>
-</table>
-
+[Topo](#sumario)
 *********
 
 *********
@@ -237,4 +183,5 @@ Preencher na tabela os riscos identificados para o início do projeto. Essa tabe
 
 (coloque aqui, artigos, livros e sites utilizados e citados no documento)
 
+[Topo](#sumario)
 *********
