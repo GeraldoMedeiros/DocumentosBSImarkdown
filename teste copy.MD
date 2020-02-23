@@ -1,7 +1,11 @@
 <style>
+
 div.a {
+
 	text-align: center;
+
 }
+
 </style>
 
 *********
