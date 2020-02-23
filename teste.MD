@@ -36,7 +36,7 @@
     2. [Requisitos não-Funcionais](#rnf)
     3. [Perfis dos Usuários](#usuarios)
     4. [Riscos](#riscos)
-4. [Referências](referencias)
+4. [Referências](#referencias)
 
 *********
 
@@ -181,7 +181,7 @@ Preencher na tabela os riscos identificados para o início do projeto. Essa tabe
 
 ## Referências
 
-DACIUK, Fernando. Aprenda Markdown. **da2k blog**, 2015. Disponível em: \< https://blog.da2k.com.br/2015/02/08/aprenda-markdown/ \>. Acesso em: 22 de fev de 2020.
+DACIUK, Fernando. Aprenda Markdown. **da2k blog**, 2015. Disponível em: <<https://blog.da2k.com.br/2015/02/08/aprenda-markdown/>>. Acesso em: 22 de fev de 2020.
 
 
 (coloque aqui, artigos, livros e sites utilizados e citados no documento)
