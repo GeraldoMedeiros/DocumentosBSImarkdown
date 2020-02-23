@@ -19,103 +19,53 @@ Conversion notes:
 
 ## Processo BSI - Documento de Visão
 
-	Modelo para o Doc 001 - Documento de Visão. O documento de visão do projeto apresenta informações sobre a equipe, o projeto, lista de requisitos e riscos iniciais do projeto escrito após a Conversa com o Cliente. Modelo baseado nas características do processo easYProcess (YP).
-
-	Deve conter os seguintes conteúdos:
-
-
+<p> Modelo para o Doc 001 - Documento de Visão. O documento de visão do projeto apresenta informações sobre a equipe, o projeto, lista de requisitos e riscos iniciais do projeto escrito após a Conversa com o Cliente. Modelo baseado nas características do processo easYProcess (YP).</p>
+    Deve conter os seguintes conteúdos:
 
 1. Introdução
-    1. Propósito do documento de requisitos (para que serve)
+	1. Propósito do documento de requisitos (para que serve)
     2. Escopo do produto (breve descrição das características do sistema - Qual a função do sistema a ser desenvolvido? Para que ele serve?)
 2. Descrição geral
-    3. Requisitos funcionais (descrição de todos os requisitos solicitados pelo cliente)
-    4. Requisitos não-funcionais
-    5. Perfis dos usuários (características dos usuários)
-    6. Riscos
-    7. Suposições e dependências
-        1. Opcional
-    8. Perspectiva do produto (dá uma visão geral de como o produto funcionará. Pode ser um protótipo de telas feito a mão ou não)
-        2. Opcional
-
-**Histórico de revisões**
+3. Requisitos funcionais (descrição de todos os requisitos solicitados pelo cliente)
+4. Requisitos não-funcionais
+5. Perfis dos usuários (características dos usuários)
+6. Riscos
+7. Suposições e dependências
+    1. Opcional
+8. Perspectiva do produto (dá uma visão geral de como o produto funcionará. Pode ser um protótipo de telas feito a mão ou não)
+    1. Opcional
 
 
-<table>
-  <tr>
-   <td><strong>Data</strong>
-   </td>
-   <td><strong>Versão</strong>
-   </td>
-   <td><strong>Descrição</strong>
-   </td>
-   <td><strong>Autor</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>22/03/2020
-   </td>
-   <td>1.0
-   </td>
-   <td>Documento inicial
-   </td>
-   <td>Taciano Morais Silva
-   </td>
-  </tr>
-  <tr>
-   <td>19/03/2018
-   </td>
-   <td>1.1
-   </td>
-   <td>Adição da seção Histórico de Revisões neste documento e no modelo
-   </td>
-   <td>Taciano Morais Silva
-   </td>
-  </tr>
-  <tr>
-   <td>16/11/2018
-   </td>
-   <td>1.2
-   </td>
-   <td>Pequenos ajustes no texto
-   </td>
-   <td>Taciano Morais Silva
-   </td>
-  </tr>
-  <tr>
-   <td>27/12/2018
-   </td>
-   <td>1.3
-   </td>
-   <td>Melhorias no texto de descrição do documento.
-   </td>
-   <td>Taciano Morais Silva
-   </td>
-  </tr>
-</table>
+|Data | Versão | Descrição | Autor|
+:----------: | :------: | :----------------- | :-----------------
+22/03/2020 |	1.0 |	Documento inicial |	Taciano Morais Silva
+19/03/2018 |	1.1 |	Adição da seção Histórico de Revisões neste documento e no modelo |	Taciano Morais Silva
+16/11/2018 |	1.2 |	Pequenos ajustes no texto |	Taciano Morais Silva
+27/12/2018 |	1.3 |	Melhorias no texto de descrição do documento. |	Taciano Morais Silva 
+
+---
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE  
+CENTRO DE ENSINO SUPERIOR DO SERIDÓ  
+DEPARTAMENTO DE COMPUTAÇÃO E TECNOLOGIA  
+CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO  
+
+---
 
 
 
 
-UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
 
-CENTRO DE ENSINO SUPERIOR DO SERIDÓ
+---
 
-DEPARTAMENTO DE COMPUTAÇÃO E TECNOLOGIA
+José Geraldo de Medeiros Júnior  
+José Rubens de Oliveira Júnior  
+Jaine de Senna Santos  
+Maria das Graças Dias Amorim  
+Paulo Vitor de Medeiros Brito  
+Pedro Jonas da Silva Medeiros  
 
-CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
-
-José Geraldo de Medeiros Júnior
-
-José Rubens de Oliveira Júnior
-
-Jaine de Senna Santos
-
-Maria das Graças Dias Amorim
-
-Paulo Vitor de Medeiros Brito
-
-Pedro Jonas da Silva Medeiros
+---
 
 **NOME DO PROJETO: Documento de Visão**
 
