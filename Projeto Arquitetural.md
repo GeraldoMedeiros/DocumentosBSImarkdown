@@ -25,6 +25,7 @@ Introdução, Histórico de revisões, Visão geral da Arquitetura, Requisitos n
 *********
 *********
 # Referências
+
 Links utilizados como referência sobre Arquitetura de Software e documentação de Arquiteturas.
 
 ### **UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE**
@@ -51,6 +52,7 @@ Links utilizados como referência sobre Arquitetura de Software e documentação
 *********
 
 <div id='sumario'/>
+
 ## Sumário
 
 1. [Descrição](#descricao)
@@ -70,10 +72,13 @@ Links utilizados como referência sobre Arquitetura de Software e documentação
 *********
 
 <div id='descricao'/> 
+
 ## Descrição
+
 Descrição do documento. Focar no conteúdo.
 
 <div id='revisoes'/> 
+
 ### **Histórico de Revisões**
 
 | Data | Versão | Descrição | Autor|
@@ -112,6 +117,7 @@ Requisitos não-funcionais: nesta fase do documento, é necessário listar os re
 *********
 
 <div id='mecanismo'/> 
+
 ## Mecanismos arquiteturais
 
 Nesta fase do documento, devemos listar os mecanismos arquiteturais encontrados no sistema, ou seja, identificar todos os mecanismos de análise, mecanismo de design e mecanismo de implementação. O intuito desta etapa é verificar e garantir que todas as preocupações técnicas relativas à arquitetura do sistema tenham sido capturadas.
@@ -126,6 +132,7 @@ Log | Implementação dos recursos de log do componente de persistência. | ADO.
 *********
 *********
 <div id='tecnologias'/>
+
 ### **Tecnologias**
 
 Detalhar as tecnologias utilizadas na implementação.
@@ -134,6 +141,7 @@ Detalhar as tecnologias utilizadas na implementação.
 *********
 
 <div id='design'/>
+
 ## Decisões de Design
 
 **Fundamentação:** nesta fase, o arquiteto deve fundamentar todas as decisões importantes de design. Além disso, deve descrever as alternativas significativas rejeitadas no projeto. Esta seção pode indicar hipóteses, restrições, resultados de análises e experiências significativas para a arquitetura.
@@ -148,6 +156,7 @@ Por exemplo:
 *********
 
 <div id='validacao'/>
+
 ## Validação com Casos de Teste
 
 Nesta fase selecionar User Stories com cenários escolhidos para a validação da arquitetura apresentada. Casos de uso, backlog, requisitos de usuários ou qualquer outro nome que represente os itens relevantes para o funcionamento do sistema final, o intuito é exercitar e testar os principais aspectos de risco da arquitetura.
@@ -161,7 +170,9 @@ Nesta fase selecionar User Stories com cenários escolhidos para a validação d
 *********
 
 <div id='componentes'/>
+
 ## Componentes
+
 Nesta fase, o arquiteto deve apresentar o diagrama de componentes. É recomendado como boas práticas de mercado o uso do modelo UML para criação do diagrama, que deve apresentar os possíveis componentes e suas dependências. Além disso, o arquiteto deve criar uma tabela detalhando as responsabilidades de cada componente.
 
 Exemplo:
@@ -177,6 +188,7 @@ Exemplo:
 |Segurança   |
 
 <div id='implantacao'/>
+
 ## Implantação
 
 O arquiteto deve descreve as configurações de distribuição dos componentes de software na área física em que serão implantados.

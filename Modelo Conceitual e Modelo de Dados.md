@@ -66,7 +66,9 @@ Este documento deve conter os seguintes conteúdos:
 *********
 *********
 <div id='descricao'/> 
+
 ## Descrição
+
 Descrição do documento. Focar no conteúdo.
 
 [Topo](#sumario)
@@ -74,6 +76,7 @@ Descrição do documento. Focar no conteúdo.
 *********
 
 <div id='revisoes'/> 
+
 ### **Histórico de Revisões**
 
 | Data | Versão | Descrição | Autor|
@@ -86,6 +89,7 @@ Descrição do documento. Focar no conteúdo.
 *********
 
 <div id='conceitual'/> 
+
 ## Modelo Conceitual
 
 [Topo](#sumario)
@@ -94,6 +98,7 @@ Descrição do documento. Focar no conteúdo.
 *********
 
 <div id='entidades'/> 
+
 ## Descrição das Entidades
 
 Descrição sucinta das entidades presentes no sistema.
@@ -104,6 +109,7 @@ Descrição sucinta das entidades presentes no sistema.
 *********
 
 <div id='dados'/> 
+
 ## Modelo de Dados
 
 Descrever o paradigma utilizado para a representação dos dados.
@@ -114,6 +120,7 @@ Descrever o paradigma utilizado para a representação dos dados.
 *********
 
 <div id='dicionario'/> 
+
 ## Dicionário de Dados
 Geralmente uma tabela que descreve os limites e restrições de cada atributo/campo das entidades persistidas (tabelas).
 
@@ -123,7 +130,9 @@ Geralmente uma tabela que descreve os limites e restrições de cada atributo/ca
 *********
 
 <div id='referencias'/>
+
 ## Referências
+
 (coloque aqui, artigos, livros e sites utilizados e citados no documento)
 
 [Topo](#sumario)
