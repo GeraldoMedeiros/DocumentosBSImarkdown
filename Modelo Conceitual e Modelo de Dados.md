@@ -79,8 +79,9 @@ Descrição do documento. Focar no conteúdo.
 | Data | Versão | Descrição | Autor|
 | :--- | :----: | :-------- | :--- |
 22/03/2020 | 1.0 | Documento inicial | Taciano Morais Silva
-[Topo](#sumario)
 
+
+[Topo](#sumario)
 *********
 *********
 
