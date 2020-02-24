@@ -13,7 +13,6 @@ Introdução, Histórico de revisões, Visão geral da Arquitetura, Requisitos n
 4. Implantação
 5. Referências
 
-<div id='revisoes'/> 
 
 ## Histórico de revisões
 
@@ -21,12 +20,12 @@ Introdução, Histórico de revisões, Visão geral da Arquitetura, Requisitos n
 | :--- | :----: | :-------- | :--- |
 19/03/2018 | 1.0 | Documento inicial | Taciano Morais Silva
 
-[Topo](#sumario)
-*********
-*********
-# Referências
+
+## Referências
 
 Links utilizados como referência sobre Arquitetura de Software e documentação de Arquiteturas.
+
+*********
 
 ### **UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE**
 
@@ -98,6 +97,7 @@ Preparar uma imagem e descrever de forma sucinta a arquitetura.
 
 [Topo](#sumario)
 *********
+
 *********
 
 <div id='requisitos'/> 
@@ -112,8 +112,10 @@ Requisitos não-funcionais: nesta fase do documento, é necessário listar os re
 | Desempenho | 1. A pagina principal tem que ser carregada em no máximo 3 segundos com uma conexão mínima de 256kbps.
 |Interoperabilidade| 1. Deve ser desenvolvido na plataforma .NET com banco de dados SQL Server Enterprise ou Oracle 10g.
 
+
 [Topo](#sumario)
 *********
+
 *********
 
 <div id='mecanismo'/> 
@@ -128,16 +130,20 @@ Nesta fase do documento, devemos listar os mecanismos arquiteturais encontrados 
 Integração com sistemas legados (Cobrança) | Interface utilizando XML em serviço e arquivo texto. | Web Service e System.IO
 Log | Implementação dos recursos de log do componente de persistência. | ADO.NET
 
+
 [Topo](#sumario)
 *********
+
 *********
 <div id='tecnologias'/>
 
 ### **Tecnologias**
 
 Detalhar as tecnologias utilizadas na implementação.
+
 [Topo](#sumario)
 *********
+
 *********
 
 <div id='design'/>
@@ -153,6 +159,7 @@ Por exemplo:
 
 [Topo](#sumario)
 *********
+
 *********
 
 <div id='validacao'/>
@@ -164,9 +171,11 @@ Nesta fase selecionar User Stories com cenários escolhidos para a validação d
 | User Story | Motivos da escolha  |
 | ---------- | ------ |
 | US 01 | Descrever o motivo e os itens que serão testados.
-|US 04  | -
+| US 04 | -
+
 [Topo](#sumario)
 *********
+
 *********
 
 <div id='componentes'/>
@@ -177,7 +186,7 @@ Nesta fase, o arquiteto deve apresentar o diagrama de componentes. É recomendad
 
 Exemplo:
 | Componente | Descrição  |
-| :--------: | ---------- |
+| ---------: | ---------- |
 | BackOffice | Descrever de forma sucinta as responsabilidades deste componente...
 |Assinante   | 
 |Serviço     |
@@ -194,6 +203,10 @@ Exemplo:
 O arquiteto deve descreve as configurações de distribuição dos componentes de software na área física em que serão implantados.
 
 Exemplo:
+
+![nome alternativo](https://github.com/GeraldoMedeiros/Testes/figures/figure1.png)
+
+
 [Topo](#sumario)
 
 *********
@@ -207,8 +220,3 @@ Exemplo:
 
 [Topo](#sumario)
 *********
-
-
-
-
-
