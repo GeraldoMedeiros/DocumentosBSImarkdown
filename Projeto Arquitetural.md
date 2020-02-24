@@ -204,7 +204,7 @@ O arquiteto deve descreve as configurações de distribuição dos componentes d
 
 Exemplo:
 
-![nome alternativo](https://github.com/GeraldoMedeiros/Testes/figures/figure1.png)
+![nome alternativo](https://github.com/GeraldoMedeiros/Testes/tree/master/figures/figure.png)
 
 
 [Topo](#sumario)
